@@ -1,0 +1,11 @@
+# Ignorar archivos .keras
+*.keras
+
+# Ignorar archivos .pkl
+*.pkl
+
+# Ignorar archivos .json
+*.json
+
+# Ignorar la carpeta .ipynb_checkpoints
+.ipynb_checkpoints/
