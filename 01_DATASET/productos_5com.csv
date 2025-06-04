@@ -1,0 +1,192 @@
+codProd;concepto;precioUnitario
+cp-1;Ron Flor de Caña;75
+cp-2;Coca Cola 3L;14
+cp-3;Sprite 3L;14
+cp-4;Vino Santa Ana;35
+cp-5;Latas Taquiña 473ml;5
+cp-6;Caja Paceña;130
+cp-7;Singani Caso Real Azul;35
+cp-8;Paquete corona lata 350ml;60
+cp-9;Vodka Barkov 1L;45
+cp-10;Caja Baltica 473ml;150
+cp-11;Sixpack Paceña Lata;50
+cp-12;Agua Vital 990ml;6
+cp-13;Hir Miel;10
+cp-14;Ron Carta Vieja;60
+cp-15;Sixpack Baltica;36
+cp-16;Taquiña 473ml;5
+cp-17;Burguesa 473ml;8
+cp-18;Corona Botellin;10
+cp-19;Pepsi 3L;11
+cp-20;Sixpack Baltica;40
+cp-21;Combo Ron Flor de Caña;90
+cp-22;Bolsa Hielo 2K;5
+cp-23;Sixpack Corona;70
+cp-24;Fernet Branco 3/4;65
+cp-25;Four Loke 695ml;35
+cp-26;Cajetilla Boham Marula;12
+cp-27;Machucada Chicle;10
+cp-28;Burguesa 473ml;7
+cp-29;Sprite 2L;10
+cp-30;Casa Real Azul;40
+cp-31;Sixpack Baltica;39
+cp-32;Baltica 440ml;6,5
+cp-33;Taquiña Chica 440ml;5
+cp-34;Combo Ron Flor de Caña;80
+cp-35;Burguesa 473ml;7,5
+cp-36;Combo Fernet Branco + Pepsi;83
+cp-37;Paquete Coca Cola 3L;80
+cp-38;Sixpack Corona Botellin;65
+cp-39;Vino;25
+cp-40;Fanta 3L;14
+cp-41;Paceña Lata 330ml;7
+cp-42;Pack Burguesa 473ml;80
+cp-43;Vino Turuno;22
+cp-44;Potosina Lata 473ml;8
+cp-45;Cajetilla Camel peq;10
+cp-46;Fernet Branca 1L;90
+cp-47;Sixpack Baltica;35
+cp-48;Casa Real Azul;35
+cp-49;Ron Presidente;45
+cp-50;Sixpack Burguesa 330ml;40
+cp-51;Cuba Libre;20
+cp-52;Sixpack Huari Lata;50
+cp-53;Ice 5L;10
+cp-54;Vino Turuno;30
+cp-55;Paceña 440ml;8
+cp-56;Machucada Café;10
+cp-57;Baltica 440ml;6
+cp-58;Sixpack Burguesa 330ml;45
+cp-59;Latas Paceña Lata;8
+cp-60;Taquiña 440ml;5
+cp-61;Cajetilla Camel;18
+cp-62;Vino Turuno;25
+cp-63;Baltica 440ml;7
+cp-64;Dorby Antogico;8
+cp-65;Cajetilla Camel Act;18
+cp-66;Lata Golden 260ml;5
+cp-67;Lata Huari 330ml;9
+cp-68;Lata Paceña 440ml;8
+cp-69;Lata Golden 440ml;7
+cp-70;Machucado Limon;10
+cp-71;Caja Taquiña;65
+cp-72;Corona Botellin;11
+cp-73;Cajetilla Camel Pequeña;10
+cp-74;Ron Carta Vieja;75
+cp-75;Cajetilla Derby;8
+cp-76;Combo Ron Flor de Caña;85
+cp-77;Four Loko Blue;22
+cp-78;Four Loko Black;22
+cp-79;Caja Baltica 440ml;78
+cp-80;Paquete Aquarios Pera 500ml;28
+cp-81;Tres Plumas Seca;10
+cp-82;Volt Maco;5
+cp-83;Pack x 12 Burguesa;80
+cp-84;Cajetilla LM Azul;10
+cp-85;Four Loko 473ml;25
+cp-86;Ron Abuelo 1L;85
+cp-87;Bock 440ml;9
+cp-88;Simba Piña;9
+cp-89;Paceña Lata 440ml;6
+cp-90;Huari Lata Miel;9
+cp-91;Tres Plumas Café;10
+cp-92;Machucada Menta;10
+cp-93;Coca Cola 2L;10
+cp-94;Sixpack Corona;65
+cp-95;Huari Lata 210ml;9
+cp-96;Burguesa Lata 350ml;7
+cp-97;Cajetilla Lm Forward;16
+cp-98;Pack 12 Paceña 330ml;84
+cp-99;Combo Branco 750ml + pepsi 3L;91
+cp-100;7Up;11
+cp-101;Cajetilla Winston;10
+cp-102;Fernet Bronco;75
+cp-103;Flor de Caña 1L;75
+cp-104;Sixpack Burguesa 475ml;48
+cp-105;Pack Golden 440ml;80
+cp-106;Powerade 990ml;10
+cp-107;Tarjeta entel;10
+cp-108;Sixpack Golden 440ml;40
+cp-109;Cuba Libre 2L;25
+cp-110;Ron Habana;80
+cp-111;Jagermeistor 250ml;140
+cp-112;Branca menta;70
+cp-113;Taquiña 440ml;6
+cp-114;Caja Conti Lata 475ml;160
+cp-115;Alikal;5
+cp-116;Sixpack Baltica;38
+cp-117;Burguesa 350ml;7
+cp-118;Pepsi 1L;5
+cp-119;Coca Cola 3L;15
+cp-120;Sixpack Burguesa 473ml;45
+cp-121;Ron Flor de Caña;80
+cp-122;Machucada Yungeno;11
+cp-123;Cajetilla Camel ;19
+cp-124;Conti 473ml;7
+cp-125;Golden Lata 440ml;7
+cp-126;Golden Stand 440ml;7
+cp-127;Paceña lata 269ml;6
+cp-128;Sprite 3L;15
+cp-129;Huari Miel Bot;10
+cp-130;Cajetilla Bohem Sandia;15
+cp-131;Tres Plumas Seca;11
+cp-132;Golden 440ml;7
+cp-133;Huari Lata;10
+cp-134;Sixpack Corona;60
+cp-135;Caja Paceña mediana;130
+cp-136;Flor de Caña 1L;80
+cp-137;Cajetilla Pequeña Winsten;5
+cp-138;Huari Lata 440ml;10
+cp-139;Casa Real Etq Negra;75
+cp-140;Paquete Paceña 440ml;95
+cp-141;Caja Paceña 710ml;65
+cp-142;Vino Santa Ana;37
+cp-143;Golden 440ml;8
+cp-144;Huari Miel Botellin;10
+cp-145;Ron Barcola 1L;95
+cp-146;Quilmes 473ml;8
+cp-147;Lata Huari 440ml;10
+cp-148;Cajetilla Camel;10
+cp-149;Coca Cola 2L;12
+cp-150;Burguesa 473ml;9
+cp-151;Paceña 440ml;10
+cp-152;Vodka Barkov 1L;50
+cp-153;Huari 330ml;9
+cp-154;Pack Huari 330ml;105
+cp-155;Coca Cola 2.5L;12
+cp-156;Paquete Coca Cola 3L;90
+cp-157;FourLoko 473ml;25
+cp-158;Sixpack Quilmes;50
+cp-159;Paceña Macenuda;14
+cp-160;Paceña 330ml;8
+cp-161;Pack Burguesa 473ml;105
+cp-162;Ron Habana;90
+cp-163;Paceña 269ml;7
+cp-164;Pack Gretz Botellin;66
+cp-165;Paceña;8
+cp-166;Caja Huari Lata;105
+cp-167;Paceña 440ml;9
+cp-168;Rybro Etq Azul;35
+cp-169;Huari Lata 310ml;8
+cp-170;Fernet Bronco;90
+cp-171;Barkov 1L;50
+cp-172;7Up;12
+cp-173;Vino Kohlberg;25
+cp-174;Singani Rujero;30
+cp-175;7Up 3L;12
+cp-176;Branca menta 750ml;90
+cp-177;Sixpack Quilmes 473ml;50
+cp-178;FourLoko 695ml;38
+cp-179;Tres Plumas Seca;12
+cp-180;San Mateo 2L;25
+cp-181;Rockstar;4
+cp-182;FourLoko 695ml;37
+cp-183;Paceña 440ml;9,5
+cp-184;Singani 500ml;10
+cp-185;Yungeño Machucado;11
+cp-186;Bchem Yogur;14
+cp-187;Coca Cola 3L;12
+cp-188;Sprite 3L;12
+cp-189;Coca Cola 3L;13
+cp-190;Sprite 3L;13
+cp-191;Pepsi 3L;12
